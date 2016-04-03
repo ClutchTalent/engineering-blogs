@@ -330,6 +330,7 @@
 * Yahoo http://yahooeng.tumblr.com/
 * Yelp http://engineeringblog.yelp.com/
 * YLD! http://blog.yld.io
+* Yext http://engblog.yext.com/
 
 #### Z companies
 * Zalando https://tech.zalando.com/blog/
